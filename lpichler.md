@@ -6,7 +6,7 @@ I changed you somehow.
 
 Your favorite fruit: apple
 
-Your favorite city: ...
+Your favorite city: Helsinki
 
 Your favorite vegetable: tomato
 
