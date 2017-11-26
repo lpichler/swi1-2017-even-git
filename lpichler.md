@@ -14,7 +14,7 @@ Your favorite color: ...
 
 Your favorite icecream: vanilla
 
-Your favorite season: ...
+Your favorite season: spring
 
 
 (after this, please follow the instructions in README.md)
